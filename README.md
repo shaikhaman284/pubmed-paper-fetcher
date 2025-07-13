@@ -64,7 +64,7 @@ get-papers-list "your search query" [options]
 
 1. **Basic search with console output:**
    ```bash
-   get-papers-list "cancer AND drug development"
+   poetry run get-papers-list "cancer AND drug development"
    ```
 
 2. **Search with file output:**
