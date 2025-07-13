@@ -22,7 +22,7 @@ A Python tool to fetch research papers from PubMed that have at least one author
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repository-url>
+   git clone (https://github.com/shaikhaman284/pubmed-paper-fetcher.git)
    cd pubmed-paper-fetcher
    ```
 
